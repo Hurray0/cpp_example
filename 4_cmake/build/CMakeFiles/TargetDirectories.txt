@@ -1,0 +1,3 @@
+/home/zhuhongrui/src/learn_cpp/4_cmake/build/CMakeFiles/rebuild_cache.dir
+/home/zhuhongrui/src/learn_cpp/4_cmake/build/CMakeFiles/a.out.dir
+/home/zhuhongrui/src/learn_cpp/4_cmake/build/CMakeFiles/edit_cache.dir

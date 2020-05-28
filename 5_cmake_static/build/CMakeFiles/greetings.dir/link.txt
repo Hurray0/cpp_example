@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgreetings.a  CMakeFiles/greetings.dir/hello.cpp.o CMakeFiles/greetings.dir/morning.cpp.o
+/usr/bin/ranlib libgreetings.a

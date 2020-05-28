@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/a.out.dir/main.cpp.o  -o a.out -Wl,-rpath,/home/zhuhongrui/src/learn_cpp/7_cmake_auto/build libgreetings.so 

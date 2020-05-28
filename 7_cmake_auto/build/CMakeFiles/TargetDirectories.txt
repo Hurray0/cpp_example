@@ -1,0 +1,4 @@
+/home/zhuhongrui/src/learn_cpp/7_cmake_auto/build/CMakeFiles/rebuild_cache.dir
+/home/zhuhongrui/src/learn_cpp/7_cmake_auto/build/CMakeFiles/edit_cache.dir
+/home/zhuhongrui/src/learn_cpp/7_cmake_auto/build/CMakeFiles/greetings.dir
+/home/zhuhongrui/src/learn_cpp/7_cmake_auto/build/CMakeFiles/a.out.dir

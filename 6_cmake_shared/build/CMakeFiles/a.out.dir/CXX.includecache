@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhuhongrui/src/learn_cpp/6_cmake_shared/hello.h
+iostream
+-
+
+/home/zhuhongrui/src/learn_cpp/6_cmake_shared/main.cpp
+iostream
+-
+hello.h
+/home/zhuhongrui/src/learn_cpp/6_cmake_shared/hello.h
+morning.h
+/home/zhuhongrui/src/learn_cpp/6_cmake_shared/morning.h
+
+/home/zhuhongrui/src/learn_cpp/6_cmake_shared/morning.h
+iostream
+-
+

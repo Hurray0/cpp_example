@@ -1,0 +1,8 @@
+/home/zhuhongrui/src/learn_cpp/8_cmake_dir/build/CMakeFiles/rebuild_cache.dir
+/home/zhuhongrui/src/learn_cpp/8_cmake_dir/build/CMakeFiles/edit_cache.dir
+/home/zhuhongrui/src/learn_cpp/8_cmake_dir/build/src/CMakeFiles/rebuild_cache.dir
+/home/zhuhongrui/src/learn_cpp/8_cmake_dir/build/src/CMakeFiles/greetings.dir
+/home/zhuhongrui/src/learn_cpp/8_cmake_dir/build/src/CMakeFiles/edit_cache.dir
+/home/zhuhongrui/src/learn_cpp/8_cmake_dir/build/test/CMakeFiles/rebuild_cache.dir
+/home/zhuhongrui/src/learn_cpp/8_cmake_dir/build/test/CMakeFiles/a.out.dir
+/home/zhuhongrui/src/learn_cpp/8_cmake_dir/build/test/CMakeFiles/edit_cache.dir
